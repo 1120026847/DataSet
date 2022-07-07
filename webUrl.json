@@ -24,6 +24,27 @@
 {
         "id":6,
       "word":"http://a113300.gz01.bdysite.com/admin/mf/666.php"
+    },{
+    "id":7,
+    "word":"http://aaaaaaaa1314.gz01.bdysite.com/admin/25.php"
+    },
+    {
+    "id":8,
+    "word":"http://aaaaaaaa1314.gz01.bdysite.com/admin/26.php"
+    },
+    {
+    "id":9,
+    "word":"http://aaaaaaaa1314.gz01.bdysite.com/admin/26.php"
+    },{
+    "id":10,
+    "word":"http://aaaaaaaa1314.gz01.bdysite.com/admin/28.php"
+    },{
+    "id":11
+    "word":"http://aaaaaaaa1314.gz01.bdysite.com/admin/29.php"
+    },
+    {
+    "id":12
+    "word":"http://aaaaaaaa1314.gz01.bdysite.com/admin/30.php"
     }
   ]
 }
